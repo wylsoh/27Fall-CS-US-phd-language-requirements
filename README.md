@@ -11,3 +11,5 @@
 - https://cse.umn.edu/cs/phd-admissions
 - https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency
 
+### University of Texas at Dallas
+- https://academics.utdallas.edu/fact-sheets/ecs/phd-computer-science/
