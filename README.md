@@ -5,3 +5,9 @@
 - https://www.msu.edu/
 - https://engineering.msu.edu/academics/majors-degrees/computer-science-phd
 - https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency
+
+### University of Minnesota
+- https://twin-cities.umn.edu/
+- https://cse.umn.edu/cs/phd-admissions
+- https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency
+
