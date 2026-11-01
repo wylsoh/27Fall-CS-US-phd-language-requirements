@@ -4,3 +4,4 @@
 ### Michigan State University
 - https://www.msu.edu/
 - https://engineering.msu.edu/academics/majors-degrees/computer-science-phd
+- https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency
